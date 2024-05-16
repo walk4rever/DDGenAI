@@ -1,2 +1,3 @@
-# dl24-deepdive
-Deep dive, maybe some JAX examples of Dive into Deep Learning
+# Deep Dive AI
+
+Need to keep going!

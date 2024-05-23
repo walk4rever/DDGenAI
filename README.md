@@ -1,3 +1,3 @@
-# Deep Dive AI
+# Deep Dive GenAI
 
 Need to keep going!

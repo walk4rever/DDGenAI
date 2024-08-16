@@ -1,3 +1,3 @@
 # Deep Dive GenAI
 
-Need to keep going!
+Keep running, I like GenAI & Deep Neural Network.
